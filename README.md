@@ -2,7 +2,10 @@
 <p align="center"><b>App created using React Native</b></p>
 
 <h2>App creation Process :</h2>
-<code>npx react-native myApp</code>
+
+```bash
+npx react-native init myApp
+```
 
 
 <h1>Keep Connected!!</h1>
